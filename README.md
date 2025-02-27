@@ -1,8 +1,8 @@
 # Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
+<b>Link</b> : https://github.com.chidambaram/Hospital-Management-System-DBMS
 
 <pre>
-Name: Hrishikesh Athalye
+Name: chidambaram balaji
 MIS: 111803154
 Class : TY Comp Div 2
 </pre>
@@ -12,8 +12,6 @@ Hospitals interact with a lot of people in a day and there are various activitie
 
 <b>Technologies Used:</b>
 <pre>
-Frontend : React.js
-Backend : Node.js, Express
 Database : MySQL
 </pre>
 
